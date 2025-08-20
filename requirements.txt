@@ -1,0 +1,7 @@
+python-dotenv
+azure-identity
+azure-ai-ml
+azure-ai-projects
+openai
+
+
