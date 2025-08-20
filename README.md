@@ -1,6 +1,6 @@
 # Chat App with Streamlit
 
-This project is a simple chat application built using [Streamlit](https://streamlit.io/). It was originally developed as part of an Azure lab, but has been cleaned and improved for use as a personal portfolio project.
+This project is a simple chat application built using [Streamlit](https://streamlit.io/). It was originally developed as part of an #Azure AI-102 lab, but has been cleaned and improved for use as a personal project.
 
 ## Features
 
